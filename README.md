@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hello 👋, I'm Chinnipalli Shiva</h1>
-<img align="right" alt="coding" width="300"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" style="border-radius: 100px;" src="https://images.playground.com/1970956d63064735af9f3af0fbd76cff.jpeg">
+
 <h3>A passionate Web Developer 👨‍💻, with strong administrative
     🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing
     in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually
