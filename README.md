@@ -41,3 +41,12 @@
 ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-%231F9EFC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%234A90E2.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%231F9EFC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+# 📊 GitHub Stats:
+ 
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChinnipalliShiva&show_icons=true&locale=en&layout=compact" alt="ChinnipalliShiva" /></p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinnipalliShiva&show_icons=true&locale=en" alt="ChinnipalliShiva" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinnipalliShiva&" alt="ChinnipalliShiva" /></p>
